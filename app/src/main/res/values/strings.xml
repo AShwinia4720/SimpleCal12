@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCal12</string>
+    <string name="BasicCal">Basic Calculator</string>
+
+    <dimen name="HeadTxtHt">35sp</dimen>
+    <style name="Bold">Bold</style>
+
+    <dimen name="txtHt"> 30sp</dimen>
+</resources>
